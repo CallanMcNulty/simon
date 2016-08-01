@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+.color {
+   height:200px;
+   width:200px;
+   margin:20px;
+}
+.red {
+  background-color: red;
+}
+.blue {
+  background-color: blue;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+.flash {
+  background-color: white;
+}
