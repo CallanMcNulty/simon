@@ -6,7 +6,7 @@
 
 ## Description
 
-_Classic Simon game created in Javascript. Created for with Javascript synchronicity, timeouts and promises._
+_Classic Simon game created in Javascript. Created for practice with Javascript synchronicity, timeouts and promises._
 
 ## Setup/Installation Requirements
 
